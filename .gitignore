@@ -1,0 +1,29 @@
+
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+*.pdb
+*.egg-info/
+*.egg
+
+
+
+# VS Code settings
+.vscode/
+
+# Streamlit cache
+.streamlit/config.toml
+.streamlit/*.json
+.streamlit/cache/
+.streamlit/static/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
