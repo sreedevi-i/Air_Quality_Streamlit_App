@@ -16,7 +16,6 @@ __pycache__/
 .vscode/
 
 # Streamlit cache
-.streamlit/config.toml
 .streamlit/*.json
 .streamlit/cache/
 .streamlit/static/

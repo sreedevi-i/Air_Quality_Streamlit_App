@@ -1,0 +1,7 @@
+[theme]
+base="light"  # switch to light theme
+primaryColor="#1f77b4"  # green (used for buttons, highlights)
+backgroundColor="#FFFFFF"  # white background
+secondaryBackgroundColor="#F5F5F5"  # light gray for sidebar and cards
+textColor="#262730"  # dark gray text
+font="sans serif"  # clean font
