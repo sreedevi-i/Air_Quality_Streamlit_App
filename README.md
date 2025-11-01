@@ -1,6 +1,6 @@
 # Air Quality Data Analysis App
 
-This is a simple interactive web app built with **Streamlit** for exploring and visualizing a global Air Quality dataset. Deployed at: https://airqualityapp-siree.streamlit.app/
+This is a simple interactive web app built with **Streamlit** for exploring and visualizing a global Air Quality dataset. Deployed with streamlit at: https://airqualityapp-siree.streamlit.app/
 
 ## Features
 
